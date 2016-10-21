@@ -1,4 +1,4 @@
 # repotest
 はじめてつかう
-＃# repotest
+## repotest
 すこし改変
